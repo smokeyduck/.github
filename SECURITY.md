@@ -6,8 +6,7 @@ discussion or pull request for a vulnerability.
 ## Reporting a vulnerability
 
 Report privately through GitHub Security Advisories on the affected repository:
-
-- [Report a vulnerability](https://github.com/hungtqce180632/hungtqce180632/security/advisories/new)
+open the repository, go to **Security → Report a vulnerability**.
 
 If advisories are unavailable for a repository, email **security@winsell.vn**
 with the details.
